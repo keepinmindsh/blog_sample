@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/lines/404.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/about/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/about/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/blog/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/code/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/contact/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/css/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/diet/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/life/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/music/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/assets/css/preview.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/staff/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/assets/css/styles.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/tips/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/travel/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/tutorial/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/category/work/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/lines/welcome-to-the-desert-of-the-real/view-all/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-05-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/welcome-to-the-desert-of-the-real/2/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-05-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/welcome-to-the-desert-of-the-real/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-05-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/why-books-should-be-your-priority/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-11-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-10-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-07-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/candy-candies-candy/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-04-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/trust-me-it-will-work/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-03-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/how-to-turn-your-dog-into-a-jedi-master/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-02-03</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/let-flexbox-work-for-you-or-perish/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-08-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-08-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/smoke-alert/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-07-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/do-you-believe-that-a-spider-can-dance/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-06-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/a-cook-cries-in-the-rain-at-night/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-06-04</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/grab-your-band-and-get-out/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-05-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/passion-is-dangerous-go-for-it/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-09-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lines/birds-can-fly-but-this-you-knew-already/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2010-09-10</lastmod>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/lines/authors/thiagorossener/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+</urlset>
