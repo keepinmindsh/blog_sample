@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "jekflix"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rouge"
